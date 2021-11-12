@@ -2,7 +2,7 @@
 
 Live Site [Time Travel Watch Zone](https://time-travel-watch-zone.web.app/).
 
-heroku link [Time Travel Watch Zone serve](https://shielded-bastion-47032.herokuapp.com/).
+heroku link [Time Travel Watch Zone serve](https://protected-falls-97350.herokuapp.com/).
 
 This website is for online watch store where any one can choose their watch and order from online.
 
