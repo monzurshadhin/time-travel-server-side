@@ -12,7 +12,7 @@ This website is for online watch store where any one can choose their watch and 
 - you can fetch all reviews data from mongodb atlas.
 - you can add review data to mongodb atlas.
 - you can store order information in mongodb atlas.
-- you can can delete order information.
+- you can delete order information.
 - you can update order information.
 - you can also add new items.
-- you can can delete items.
+- you can delete items.
